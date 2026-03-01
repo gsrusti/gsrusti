@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/srusti-gowda](https://www.linkedin.com/feed/?trk=sem-ga_campid.14650114788_asid.145595942605_crid.651893406694_kw.www%20linkedin%20com_d.c_tid.kwd-2246447642_n.g_mt.e_geo.9061991)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srusti-gowda" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/feed/?trk=sem-ga_campid.14650114788_asid.145595942605_crid.651893406694_kw.www%20linkedin%20com_d.c_tid.kwd-2246447642_n.g_mt.e_geo.9061991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srusti-gowda" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
